@@ -1,3 +1,4 @@
+'use client'
 import { ethers } from "ethers";
 import { contractAddress, contractABI } from "./constants";
 
